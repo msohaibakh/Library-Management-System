@@ -47,7 +47,7 @@ Compile the Java files:
 
 1. Download a JDK.
 2. Download VS code for better experience.
-3. Extract the file to your Local Disk C( if not present then create one ).
+3. Extract the file to your Local Disk C( if not present then create one )if you have opened the zip file or if u have downloaded the files directly then just save them on your local disk C.
 4. Then open the package assignment 1 on your IDE.
 5. Then Run it.
 
